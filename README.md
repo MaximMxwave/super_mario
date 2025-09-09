@@ -24,6 +24,7 @@
 ## 📸 Скриншоты
 
 ![preview img](/prew.png)
+<img src="./mario_mob.jpg" alt="Скриншот сайта" width="300">
 
 ---
 
