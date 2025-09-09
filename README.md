@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Мой сайт Марио</h1>
+<h1 align="center">🍄 Мой сайт Марио</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-success?style=flat&logo=github" alt="status">
@@ -29,7 +29,7 @@
 ---
 
 ## 🔗 Ссылка на сайт
-[MaximMxwave.github.io/mario](MaximMxwave.github.io/mario)
+[MaximMxwave.github.io/mario](https://maximmxwave.github.io/mario/)
 
 ---
 
