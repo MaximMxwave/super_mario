@@ -29,7 +29,7 @@
 ---
 
 ## 🔗 Ссылка на сайт
-<a href="https://maximmxwave.github.io/mario/" target="_blank">MaximMxwave.github.io/mario</a>
+[MaximMxwave.github.io/mario](https://maximmxwave.github.io/mario/)
 
 ---
 
