@@ -28,7 +28,7 @@
 ---
 
 ## 🔗 Ссылка на сайт
-[MaximMxwave.github.io/mario](https://maximmxwave.github.io/mario/)
+[MaximMxwave.github.io/super_mario](https://maximmxwave.github.io/super_mario/)
 
 ---
 
