@@ -24,12 +24,12 @@
 
 ## 📸 Скриншоты
 
-![preview img](/preview.png)
+![preview img](/prew.png)
 
 ---
 
 ## 🔗 Ссылка на сайт
-[MaximMxwave.github.io/mario](https://maximmxwave.github.io/mario/)
+<a href="https://maximmxwave.github.io/mario/" target="_blank">MaximMxwave.github.io/mario</a>
 
 ---
 
