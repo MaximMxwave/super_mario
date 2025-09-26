@@ -1,4 +1,4 @@
-<h1 align="center">🎮🍄 Мой сайт Super Mario</h1>
+<h1 align="center">🎮🍄 Cайт Super Mario</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-success?style=flat&logo=github" alt="status">
